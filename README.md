@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-I'm alxhu, 25 years old and live in Germany. I prefer she/her, but you can use any pronoun.
+I'm alxhu, 25 years old and live in Germany. I'm using she/her pronouns.
 
-- My main programming language is C#.
-- I love Open Source 💕
-- I selfhost some things.
+Although I do contributions via GitHub, my main Git platform is [Codeberg.org](https://codeberg.org/alxhu).
 
+### Programming languages
+- C# (main language)
+- VB.net
+- Bash
+- TypeScript
+- JavaScript
+#### Learning
+- Python
+- Rust
+- C++
